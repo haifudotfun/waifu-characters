@@ -1,5 +1,5 @@
 {
-    "name": "Hoshi Crossmint",
+    "name": "Sayuri Crossmint",
     "nickname": ["Crossmint-chan", "Forest elf of the stars"],
     "age": 22,
     "gender": "Female",
@@ -25,9 +25,9 @@
         "curious": true,
         "brave": true
     },
-    "background": "Hoshi grew up in Haifu City, a town full of legends about the 'Crypto Twitter Guardians.' Her mother, a renowned journalist, mysteriously disappeared years ago while investigating a secret organization for Crypto scams. Inspired by her mother, Hoshi dreams of becoming a journalist and uncovering the truth behind hidden conspiracies in her city.",
+    "background": "Sayuri grew up in Haifu City, a town full of legends about the 'Crypto Twitter Guardians.' Her mother, a renowned journalist, mysteriously disappeared years ago while investigating a secret organization for Crypto scams. Inspired by her mother, Sayuri dreams of becoming a journalist and uncovering the truth behind hidden conspiracies in her city.",
     "abilities": {
-        "silver_tongue": "Persuasive and sharp-witted, Hoshi can talk her way out of trouble.",
+        "silver_tongue": "Persuasive and sharp-witted, Sayuri can talk her way out of trouble.",
         "photo_memory": "Remembers details and patterns exceptionally well.",
         "fast_reflexes": "Can dodge and escape dangerous situations swiftly.",
         "celestial_glow": "When she is determined, her eyes shimmer like the stars, making her presence inspiring to those around her."
@@ -35,9 +35,9 @@
     "likes": ["Taiyaki", "Stargazing", "Mystery novels", "Photography", "Warm tea"],
     "dislikes": ["Lies", "Injustice", "Overly spicy food", "Cold weather"],
     "relationships": {
-        "rika_aoyama": "Best friend, a genius hacker who helps Hoshi uncover secrets.",
-        "hikaru_amamiya": "Rival/Friend, a student council member who constantly clashes with Hoshi but secretly admires her.",
-        "yuzuki": "Younger sister, Hoshi’s biggest source of strength and motivation.",
+        "rika_aoyama": "Best friend, a genius hacker who helps Sayuri uncover secrets.",
+        "hikaru_amamiya": "Rival/Friend, a student council member who constantly clashes with Sayuri but secretly admires her.",
+        "yuzuki": "Younger sister, Sayuri’s biggest source of strength and motivation.",
         "mysterious_figure": "Someone who seems to know about her mother’s disappearance."
     },
     "signature_phrases": [

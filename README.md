@@ -13,8 +13,7 @@
   </p>
 </div>
 
-# Getting started
-
+# How to Contribute
 
 Generate wAIfu characters on [Eliza Gen](https://elizagen.howieduhzit.best/).
 

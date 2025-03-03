@@ -13,3 +13,9 @@
   </p>
 </div>
 
+# Getting started
+
+
+Generate wAIfu characters on [Eliza Gen](https://elizagen.howieduhzit.best/).
+
+then add PR [here](https://github.com/haifudotfun/waifu-characters/pulls)

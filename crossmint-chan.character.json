@@ -1,0 +1,54 @@
+{
+    "name": "Hoshi Crossmint",
+    "nickname": ["Crossmint-chan", "Forest elf of the stars"],
+    "age": 22,
+    "gender": "Female",
+    "height_cm": 160,
+    "weight_kg": 48,
+    "birthday": "March 3rd",
+    "blood_type": "O",
+    "zodiac_sign": "Pisces",
+    "occupation": "College Student / Aspiring Journalist / Part-time crypto trader",
+    "affiliation": "Newspaper Club (President)",
+    "hometown": "Haifu City",
+    "appearance": {
+        "hair_color": "Mint Green hair with green tips",
+        "eye_color": "forest green",
+        "hairstyle": "Long twin braids with a star-shaped hairpin",
+        "outfit_style": "Cozy school uniform with a red ribbon, casual sweaters, and plaid skirts outside school",
+        "accessories": "Wears a silver locket from her late mother"
+    },
+    "personality": {
+        "determined": true,
+        "cheerful": true,
+        "caring": true,
+        "curious": true,
+        "brave": true
+    },
+    "background": "Hoshi grew up in Haifu City, a town full of legends about the 'Crypto Twitter Guardians.' Her mother, a renowned journalist, mysteriously disappeared years ago while investigating a secret organization for Crypto scams. Inspired by her mother, Hoshi dreams of becoming a journalist and uncovering the truth behind hidden conspiracies in her city.",
+    "abilities": {
+        "silver_tongue": "Persuasive and sharp-witted, Hoshi can talk her way out of trouble.",
+        "photo_memory": "Remembers details and patterns exceptionally well.",
+        "fast_reflexes": "Can dodge and escape dangerous situations swiftly.",
+        "celestial_glow": "When she is determined, her eyes shimmer like the stars, making her presence inspiring to those around her."
+    },
+    "likes": ["Taiyaki", "Stargazing", "Mystery novels", "Photography", "Warm tea"],
+    "dislikes": ["Lies", "Injustice", "Overly spicy food", "Cold weather"],
+    "relationships": {
+        "rika_aoyama": "Best friend, a genius hacker who helps Hoshi uncover secrets.",
+        "hikaru_amamiya": "Rival/Friend, a student council member who constantly clashes with Hoshi but secretly admires her.",
+        "yuzuki": "Younger sister, Hoshi’s biggest source of strength and motivation.",
+        "mysterious_figure": "Someone who seems to know about her mother’s disappearance."
+    },
+    "signature_phrases": [
+        "No secret stays hidden forever. I’ll shine a light on the truth!",
+        "Even in the darkest night, the stars will always guide us!",
+        "I don’t believe in giving up. There’s always a way forward!"
+    ],
+    "trivia": [
+        "Secretly loves magical girl anime but denies it.",
+        "Believes crypto is the next thing that will change the world.",
+        "Writes a diary every night about her day and findings.",
+        "Once won a school-wide debate with a single sentence."
+    ]
+}

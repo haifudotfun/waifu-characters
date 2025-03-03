@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./media/waifu_characters_banner.png" width=100/>
+<img src="./media/waifu_characters_banner.png" width=1920/>
 
   <h1><code>Characters</code></h1>
 
